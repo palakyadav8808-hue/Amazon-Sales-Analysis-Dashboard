@@ -21,7 +21,7 @@ An interactive Amazon Sales Analysis Dashboard built using Power BI to monitor s
 ## KPIs
 
 - Total Sales Amount
-- Total Quantity / Units Sold
+- Total Units Sold
 - Total Orders
 
 ## Tech Stack
